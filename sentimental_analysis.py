@@ -1,5 +1,5 @@
 import re
-import textblob as TextBlob
+from textblob import TextBlob
 
 def nlp(selected_user,df):
 
